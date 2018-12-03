@@ -1,6 +1,4 @@
-include("structs.jl")
-
-module Utils
+module SimpleDist
 
 using ..Structs: Query
 
